@@ -11,7 +11,7 @@ export default class Players extends Component {
     const result = response.data;
 
     this.setState({
-      products: result[0],2
+      products: result[0],
     });
     console.log(result);
   }
