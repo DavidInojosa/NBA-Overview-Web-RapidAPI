@@ -6,7 +6,7 @@
   justify-content: center;
   align-items: center;
 
-  background: blue;
+  background: rgb(0, 162, 255);
 }
 
 .buttons-container {
@@ -44,6 +44,7 @@
 
 .buttons-container a.players:hover {
   background: black;
+  transition: 0.5s;
 }
 
 @media (min-width: 1100px) {
