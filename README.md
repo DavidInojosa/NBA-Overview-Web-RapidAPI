@@ -5,11 +5,11 @@ Além de uma table que varia dependendo da escolha no header entre Jogadores, Jo
 Passos futuros: <br/>
 Criar filtro por: <br/>
 
-- Por nome(ordem alfabética). <br/>
+Por nome(ordem alfabética). <br/>
 <br />
-- Por posição.  <br/>
+Por posição.  <br/>
 <br />
-- Por time.<br/>
+Por time.<br/>
 <br/>
 Aba para dividir os times da conferencia leste da oeste.<br/>
 Clicque no time deverá mostrar um pop-up com o roster do time.<br/>
