@@ -2,8 +2,8 @@
 Neste projeto utilizei ReactJS, HTML5, CSS3.<br/>
 Foi implementado uma Landing page com os brasões de todos os times que participaram da NBA 2018-2019. <br />
 Além de uma table que varia dependendo da escolha no header entre Jogadores, Jogos e Times; No qual em jogadores pode-se observar a posição dos jogadores(apesar de a API não ter as posições da maioria dos jogadores), o time onde jogam e a cidade dom time onde jogam; Em jogos pode-se observar os times que jogaram em casa contra os times que jogaram de fora de casa com as datas dos jogos e as pontuações de cada time, a temporada e o status; Em times pode-se observar a cidade do time, a federação que fazem parte, a divisão e o nome completo de cada time.<br />
-Passos futuros: <br/>
-Criar filtro por: <br/>
+## Passos futuros: <br/>
+### Criar filtro por: <br/>
 
 Por nome(ordem alfabética). <br/>
 <br />
@@ -13,7 +13,8 @@ Por time.<br/>
 <br/>
 Aba para dividir os times da conferencia leste da oeste.<br/>
 Clicque no time deverá mostrar um pop-up com o roster do time.<br/>
-<br />
+<br/>
+<br/>
 
 
 
