@@ -1,0 +1,92 @@
+.main-list {
+  max-width: 1600px;
+  padding: 0 2-px;
+}
+
+.main-list .header {
+  background: cornflowerblue;
+  display: flex;
+  padding: 10px;
+  border-bottom-style: groove;
+  border-bottom-color: black;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.main-list h1 {
+  border-radius: 5px;
+  padding: 0 100px 0 100px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.main-list .table {
+  margin-right: 180px;
+}
+
+.main-list table {
+  max-width: 1320px;
+  margin: 0 300px 0 100px;
+  background: #eeeeee;
+  border-collapse: collapse;
+  padding: 20px;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+.main-list table thead {
+  justify-content: space-between;
+  background: #000;
+}
+
+.main-list table thead th {
+  color: #fff;
+  font: 400 1.5rem Archivo;
+}
+
+.main-list table,
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+.main-list .actions {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.main-list .actions button {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  border: 10px;
+  background: cornflowerblue;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.main-list .actions h2 {
+  margin-top: 25px;
+}
+
+.main-list .actions button[disabled] {
+  opacity: 0.5;
+  cursor: default;
+}
+.main-list .actions button:hover {
+  opacity: 0.7;
+}
+
+.main-list .actions button[disabled]:hover {
+  opacity: 0.5;
+}

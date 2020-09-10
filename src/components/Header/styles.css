@@ -1,11 +1,11 @@
 header#main-header {
-  width:  100%;
+  width: 100vw;
   height: 60px;
-  background: #da552f;
+  background: cornflowerblue;
   font-size: 18px;
   font-weight: bold;
-   color: #fff;
-   display: flex;
-   justify-content: center;
-   align-items: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

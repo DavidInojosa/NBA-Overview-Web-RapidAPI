@@ -6,7 +6,33 @@
   justify-content: center;
   align-items: center;
 
-  background: rgb(0, 162, 255);
+  background: cornflowerblue;
+}
+
+#page-landing .container .buttons-container {
+  justify-content: center;
+}
+
+.images-container-top {
+  display: flex;
+  justify-content: center;
+}
+
+.images-container-top img {
+  max-width: 100px;
+  max-height: 80px;
+  padding: 10px;
+}
+
+.images-container-bot {
+  display: flex;
+  justify-content: center;
+}
+
+.images-container-bot img {
+  max-width: 100px;
+  max-height: 80px;
+  padding: 10px;
 }
 
 .buttons-container {
@@ -38,11 +64,11 @@
   width: 4rem;
 }
 
-.buttons-container a.players {
+.buttons-container a.main {
   background: white;
 }
 
-.buttons-container a.players:hover {
+.buttons-container a.main:hover {
   background: black;
   transition: 0.5s;
 }
